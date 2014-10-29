@@ -1,0 +1,1 @@
+$wnd.com_vaadin_addressbook_widgetset_AddressbookWidgetset.runAsyncCallback2('Q8(664,1,Xjd);_.vc=function S_b(){gRb((!_Qb&&(_Qb=new lRb),_Qb),this.b.e)};Bed(Vh)(2);\n//# sourceURL=com.vaadin.addressbook.widgetset.AddressbookWidgetset-2.js\n')

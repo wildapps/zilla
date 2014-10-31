@@ -91,7 +91,7 @@ public class AddressbookUI extends UI {
 		
 		setContent(MainVLayout);
 			
-		Label AppTitle = new Label("Welcome to Kaizen v0.014");
+		Label AppTitle = new Label("Welcome to Kaizen v0.014.1");
 		
 		MainVLayout.addComponent(AppTitle);
 			 
